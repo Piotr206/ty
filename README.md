@@ -1,1 +1,3 @@
-# ty
+Czm nie odpisujesz??
+Coś się stało????
+:V
