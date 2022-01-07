@@ -1,5 +1,12 @@
-<html>
-Hej czm się nie odzywasz?? 
-Coś się stało?
--.-
-</Html>
+< html >
+ < głowa >
+ < META  HTTP-EQUIV =" content-type " CONTENT =" tekst/html; CHARSET=iso-8859-2 " >
+ </ głowa >
+< ciało >
+ < h1  align =" center " > PIOTR MARKOWSKI </ h1 >
+ < marquee  bgcolor =" czerwony " > Pozdrowienia </ marquee >
+</ ciało >
+</ html >
+© 2022 GitHub, Inc.
+Semestry
+Prywatno
